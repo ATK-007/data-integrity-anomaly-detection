@@ -1,0 +1,13 @@
+# No external dependencies required.
+# Data Integrity & Anomaly Detection Framework runs entirely on Python 3.9+ standard library:
+#   - sqlite3     (database engine)
+#   - hashlib     (SHA-256, BLAKE2b, SHA3-256 cryptographic hashing)
+#   - re          (regex pattern validation)
+#   - csv         (CSV export)
+#   - json        (JSON serialization)
+#   - http.server (web dashboard)
+#   - unittest    (test runner)
+#   - math        (Z-Score, IQR statistical computations)
+#   - uuid        (quarantine ID generation)
+#   - dataclasses (models)
+#   - abc         (rule base class)
